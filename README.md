@@ -1,4 +1,4 @@
-# Lab 4 — Tidying your dataset
+# Tidying your dataset
 
 > This week’s lab will introduce you to the concepts of tidy data and how you can reshape your dataset to take advantage of the `tidyverse` tools.
 
